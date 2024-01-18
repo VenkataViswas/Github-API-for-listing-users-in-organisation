@@ -1,4 +1,4 @@
-# shell-scripting-projects
+# Github-API for listing users in organisation
 
 ## Following commands helps in  running the shell 
 
